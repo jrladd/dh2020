@@ -4,7 +4,7 @@ title:  "Digital Project Review"
 date:   2020-09-08 14:52:58 -0500
 ---
 
-Choose one of the projects, tools, archives, or publications in the *Explore* section of our [Course Schedule](/schedule) and write a short review, no more than 1500 words. You might look at some of the essays at [*Reviews in DH*](https://reviewsindh.pubpub.org/) as examples. You can follow their Overview/Review format or write a more continuous piece.
+Choose one of the projects, tools, archives, or publications in the *Explore* section of our [Course Schedule](/dh2020/schedule) and write a short review, no more than 1500 words. You might look at some of the essays at [*Reviews in DH*](https://reviewsindh.pubpub.org/) as examples. You can follow their Overview/Review format or write a more continuous piece.
 
 Here are some questions you might ask as you prepare your review:
 

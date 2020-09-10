@@ -6,7 +6,7 @@ permalink: /schedule/
 
 ## Course Materials
 
-Many of our materials are available online, and all relevant links are in the class schedule above. In addition, we'll use these four books:
+Many of our materials are available online, and all relevant links are in the class schedule below. In addition, we'll use these four books:
 
 - Catherine D'Ignazio and Lauren Klein, Data Feminism (Open access, free web copy: https://data-feminism.mitpress.mit.edu/, or ISBN 9780262044004 if you prefer a physical copy)
 - Safiya Umoja Noble, Algorithms of Oppression: How Search Engines Reinforce Racism (ISBN 1479837245)
@@ -116,7 +116,7 @@ Nowviskie, ["Reconstitute the World"](http://nowviskie.org/2018/reconstitute-the
 [Torn Apart/Separados](http://xpmethod.columbia.edu/torn-apart/volume/1/index) -- Make sure to look at Volumes 1 & 2  
 [Mapping Police Violence](https://mappingpoliceviolence.org/)  
 [Collections as Data](https://collectionsasdata.github.io/)  
-DH Syllabi Collection  
+[DH Syllabi Collection](/dh2020/credits)  
   
 12 Nov  **New Media Possibilities and Limitations**
 
