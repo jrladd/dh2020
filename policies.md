@@ -29,7 +29,7 @@ You'll be assessed in this class based on your participation in discussions, as 
 - 30%: Discussion Lead/Class Participation
 - 20%: Project/Website Review
 - 20%: Data Analysis Proposal
-- 30%: Final Project (due Monday 8 June)
+- 30%: Final Project (due Monday 7 December)
 
 More information on all these assignments, including the discussion lead, digital project review, analysis proposal, and final project, will be distributed at on separate assignment sheets.
 
