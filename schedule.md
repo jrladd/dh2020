@@ -8,10 +8,10 @@ permalink: /schedule/
 
 Many of our materials are available online, and all relevant links are in the class schedule below. In addition, we'll use these four books:
 
-- Catherine D'Ignazio and Lauren Klein, Data Feminism (Open access, free web copy: https://data-feminism.mitpress.mit.edu/, or ISBN 9780262044004 if you prefer a physical copy)
-- Safiya Umoja Noble, Algorithms of Oppression: How Search Engines Reinforce Racism (ISBN 1479837245)
-- Roopika Risam, New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy (ISBN 9780810138858, 25% off from NU Press with code NUP19)
-- Ted Underwood, Distant Horizons: Digital Evidence and Literary Change (ISBN 9780226612836 or ebook ISBN 9780226612973)
+- Catherine D'Ignazio and Lauren Klein, *Data Feminism* (Open access, free web copy: https://data-feminism.mitpress.mit.edu/, or ISBN 9780262044004 if you prefer a physical copy)
+- Safiya Umoja Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism* (ISBN 1479837245)
+- Roopika Risam, *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy* (ISBN 9780810138858, 25% off from NU Press with code NUP19)
+- Ted Underwood, *Distant Horizons: Digital Evidence and Literary Change* (ISBN 9780226612836 or ebook ISBN 9780226612973)
 
 
 ## Class Schedule
@@ -33,7 +33,7 @@ Spiro, ["'This is Why We Fight': Defining the Values of the Digital Humanities"]
 
 *Read*  
 *Data Feminism*: ["Introduction: Why Data Needs Feminism"](https://data-feminism.mitpress.mit.edu/pub/frfa9szd/release/3) and [6. The Numbers Don't Speak for Themselves](https://data-feminism.mitpress.mit.edu/pub/czq9dfs5/release/2)  
-Lisa Gitelman and Virginia Jackson, "Introduction" to *'Raw Data' is an Oxymoron* (Available online at NU Library site. Let me know if you need a PDF.)  
+Gitelman and Jackson, "Introduction" to *'Raw Data' is an Oxymoron* (Available online at NU Library site. Let me know if you need a PDF.)  
 Miriam Posner, ["How did they make that?"](http://miriamposner.com/blog/how-did-they-make-that/)  
 
 *Explore*  
