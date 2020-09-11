@@ -62,7 +62,7 @@ Alpert-Abrams, ["Machine Reading the *Primeros Libros*"](http://www.digitalhuman
 Benjamin, *Race After Technology: Abolitionist Tools for the New Jim Code*, Introduction and Chapter 3, Coded Exposure: Is Visibility a Trap? (available online via NU Library)  
 Binder, ["Alien Reading: Text Mining, Language Standardization, and the Humanities"](https://dhdebates.gc.cuny.edu/read/untitled/section/4b276a04-c110-4cba-b93d-4ded8fcfafc9#ch18)  
 
-*Projects*  
+*Explore*  
 [The Princeton Prosody Archive](https://prosody.princeton.edu/)  
 [Digital Harlem](http://digitalharlem.org/)  
 [Viral Texts](https://viraltexts.org/)  
