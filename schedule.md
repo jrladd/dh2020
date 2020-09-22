@@ -45,6 +45,8 @@ Miriam Posner, ["How did they make that?"](http://miriamposner.com/blog/how-did-
 
 1 Oct  **Histories and Archives**
 
+**Discussion Leader(s):** Eliza
+
 *Read*  
 Buurma and Heffernan, ["Josephine Miles and the Origins of Distant Reading"](https://modernismmodernity.org/forums/posts/search-and-replace)  
 Hockey, ["The History of Humanities Computing"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1) (Introduction and Beginnings only)  
@@ -56,6 +58,8 @@ Selection from McGann, *Radiant Textuality* (I will distribute a PDF.)
 [Sea and Spar Between](https://nickm.com/montfort_strickland/sea_and_spar_between/)  
 
 8 Oct  **Describe, Analyze, Compute**  
+
+**Discussion Leader(s):** Min Li, Eshan
 
 *Read*  
 Alpert-Abrams, ["Machine Reading the *Primeros Libros*"](http://www.digitalhumanities.org/dhq/vol/10/4/000268/000268.html)  
@@ -70,6 +74,8 @@ Binder, ["Alien Reading: Text Mining, Language Standardization, and the Humaniti
 
 15 Oct  **Modeling**
 
+**Discussion Leader(s):** S., Sam
+
 *Read*  
 Underwood, *Distant Horizons*: Chapter 1, "Do We Understand the Outlines of Literary History?" and Chapter 3, "The Long Arc of Prestige"  
 Gavin, Jennings, Kersey, Pasanek, ["Spaces of Meaning: Conceptual History, Vector Semantics, and Close Readings"](https://dhdebates.gc.cuny.edu/read/untitled-f2acf72c-a469-49d8-be35-67f9ac1e3a60/section/4ce82b33-120f-423f-ba4c-40620913b305)  
@@ -82,6 +88,8 @@ McGrath, ["America's Next Top Novel"](https://post45.org/2020/04/americas-next-t
 
 22 Oct  **Networks**
 
+**Discussion Leader(s):** Chris, Avey
+
 *Read*  
 Ahnert & Ahnert, ‘Metadata, Surveillance, and the Tudor State’, History Workshop Journal 87 (2019) (I will distribute a PDF.)  
 Weingart, ["Demystifying Networks, Parts I & II"](http://journalofdigitalhumanities.org/1-1/demystifying-networks-by-scott-weingart/)  
@@ -93,6 +101,8 @@ Zer-Aviv, ["If Everything is a Network, Nothing is a Network"](https://visualisi
 [Mapping the Republic of Letters](http://republicofletters.stanford.edu/)  
 
 29 Oct  **Visualization**  
+
+**Discussion Leader(s):** Jessica, Maria
 
 *Read*  
 Drucker, ["Humanities Approaches to Graphical Display"](http://digitalhumanities.org/dhq/vol/5/1/000091/000091.html)  
@@ -108,6 +118,8 @@ revisit [RAWGraphs](https://rawgraphs.io/)
 
 5 Nov  **Pedagogy and Publics**  
 
+**Discussion Leader(s):** Sreddy
+
 *Read*  
 Risam, *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*, Introduction, Chapter 4: "Postcolonial Digital Pedagogy," and Conclusion: A Call to Action  
 Nowviskie, ["Reconstitute the World"](http://nowviskie.org/2018/reconstitute-the-world/) and [Change Us, Too](http://nowviskie.org/2019/change-us-too/)  
@@ -119,6 +131,8 @@ Nowviskie, ["Reconstitute the World"](http://nowviskie.org/2018/reconstitute-the
 [DH Syllabi Collection](/dh2020/credits)  
   
 12 Nov  **New Media Possibilities and Limitations**
+
+**Discussion Leader(s):** Serena, Emily
 
 *Read*  
 Noble, *Algorithms of Oppression: How Search Engines Reinforce Racism*, Chapter 1: A Society, Searching, Chapter 5: The Future of Knowledge in the Public, and Conclusion  
