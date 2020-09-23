@@ -49,8 +49,8 @@ Miriam Posner, ["How did they make that?"](http://miriamposner.com/blog/how-did-
 
 *Read*  
 Buurma and Heffernan, ["Josephine Miles and the Origins of Distant Reading"](https://modernismmodernity.org/forums/posts/search-and-replace)  
-Hockey, ["The History of Humanities Computing"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1) (Introduction and Beginnings only)  
-Selection from McGann, *Radiant Textuality* (I will distribute a PDF.)  
+Hockey, ["The History of Humanities Computing"](http://www.digitalhumanities.org/companion/view?docId=blackwell/9781405103213/9781405103213.xml&chunk.id=ss1-2-1)  
+McGann, *Radiant Textuality*, read Chapter 4: Deformance and Interpretation, skim Chapter 5: Rethinking Textuality (I will distribute a PDF.)  
 
 *Explore*  
 [Wordhoard](http://wordhoard.northwestern.edu/userman/index.html)  
