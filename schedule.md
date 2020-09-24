@@ -118,7 +118,7 @@ revisit [RAWGraphs](https://rawgraphs.io/)
 
 5 Nov  **Pedagogy and Publics**  
 
-**Discussion Leader(s):** Sreddy
+**Discussion Leader(s):** Sreddy, Rio
 
 *Read*  
 Risam, *New Digital Worlds: Postcolonial Digital Humanities in Theory, Praxis, and Pedagogy*, Introduction, Chapter 4: "Postcolonial Digital Pedagogy," and Conclusion: A Call to Action  
