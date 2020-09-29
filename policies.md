@@ -28,7 +28,7 @@ You'll be assessed in this class based on your participation in discussions, as 
 
 - 30%: Discussion Lead/Class Participation (sign up [here](https://hackmd.io/@jrladd/discussionlead/edit))
 - 20%: Project/Website Review (due date is your choice)
-- 20%: Data Analysis Proposal (due Monday 26 October)
+- 20%: Digital Project/Data Analysis Proposal (due Monday 26 October)
 - 30%: Final Project (due Monday 7 December)
 
 More information on all these assignments, including the discussion lead, digital project review, analysis proposal, and final project, will be distributed at on separate assignment sheets.
