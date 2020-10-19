@@ -99,6 +99,8 @@ Zer-Aviv, ["If Everything is a Network, Nothing is a Network"](https://visualisi
 [Six Degrees of Francis Bacon](http://sixdegreesoffrancisbacon.com/)  
 [LinkedJazz](https://linkedjazz.org/)  
 [Mapping the Republic of Letters](http://republicofletters.stanford.edu/)  
+[Network Analysis + Digital Art History](https://sites.haa.pitt.edu/na-dah/)  
+[All One People Under One King](https://maevekane.net/wmq-uc/)
 
 29 Oct  **Visualization**  
 
