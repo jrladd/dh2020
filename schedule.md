@@ -117,6 +117,7 @@ revisit [RAWGraphs](https://rawgraphs.io/)
 [TimelineJS](https://timeline.knightlab.com/) (especially the "Women in Computing" example)  
 [The Decolonial Atlas](https://decolonialatlas.wordpress.com/)  
 [Two Plantations](http://twoplantations.com/)  
+[West River Inscriptions](http://digital.wustl.edu/westriver/index.html)
 
 5 Nov  **Pedagogy and Publics**  
 

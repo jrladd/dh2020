@@ -16,7 +16,11 @@ Weingart, [Introduction to Digital Humanities](https://scottbot.github.io/IntroD
 
 Heider, [Digital History](https://docs.google.com/document/u/1/d/e/2PACX-1vR9-u_WBU3_jrzz-nNuI79xBbWVJJrnArQQlMThESIo7mihb2ccvcFdtQagz2kVUfTtc-oPFHMiwxU9/pub), Temple University, Spring 2019
 
+Dombrowski, [Digital Humanities Across Borders](https://github.com/quinnanya/dlcl204/blob/master/dlcl204syllabus.md), Stanford University, Fall 2020
+
 Posner, [Digital Humanities 201](http://miriamposner.com/classes/dh201w19/), UCLA, Winter 2019
+
+Des Jardin, [East Asian Digital Humanities](https://mollydesjardin.com/projects/ealc111-511_syllabus.pdf), University of Pennsylvania, 2019
 
 Hannah, [Digital Humanities Foundations](https://create.piktochart.com/output/37758252-digital-humanities-foundations-fall-2019), Purdue University, Fall 2019
 
