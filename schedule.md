@@ -132,6 +132,7 @@ Nowviskie, ["Reconstitute the World"](http://nowviskie.org/2018/reconstitute-the
 [Mapping Police Violence](https://mappingpoliceviolence.org/)  
 [Collections as Data](https://collectionsasdata.github.io/)  
 [DH Syllabi Collection](/dh2020/credits)  
+[Directory of Caribbean Digital Scholarship Data Sheet](https://docs.google.com/spreadsheets/d/1PfgI0GrQR60gwRFVIZmZtWae9JyAMpZNFOZRe5xsMsg/edit?usp=sharing) --- This indexing project is currently in-progress. Take a look at [Alex Gil's tweets](https://mobile.twitter.com/elotroalex/status/1320770230805762050) from the last few days, publicizing the effort and encouraging others to contribute.
   
 12 Nov  **New Media Possibilities and Limitations**
 
