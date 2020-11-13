@@ -151,4 +151,9 @@ Weingart, ["The Route of a Text Message, A Love Story"](https://www.vice.com/en_
 19 Nov  **Final Class**  
   
 We'll reserve some time here for you to choose readings based on your interests. We'll also briefly discuss everyone's final projects.  
-
+  
+*Read*  
+Two articles from PMLA 135.1 (Jan. 2020) *Varieties of Digital Humanities*:  
+Alan Liu, "Toward a Diversity Stack: Digital Humanities and Diversity as Technical Problem"  
+Élika Ortega, "Media and Cultural Hybridity in the Digital Humanites"  
+(If you have time, you might also look at Booth and Posner's introduction to the issue.)
